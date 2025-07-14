@@ -1,0 +1,13 @@
+#main {
+    text-align: center;
+}
+
+#item {
+    text-align: center;
+}
+
+#playlists {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
