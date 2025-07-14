@@ -1,9 +1,22 @@
+* {
+    background-color: rgb(53, 53, 53);
+}
+
+p, h1, h3 {
+    color: white;
+}
+
 #main {
     text-align: center;
 }
 
 #item {
     text-align: center;
+}
+
+img {
+    height: 120px;
+    width: 120px;
 }
 
 #playlists {
